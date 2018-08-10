@@ -3,11 +3,11 @@ A NodeMCU webserver interface with a DHT11/DHT22 sensor and a 16x2 LCD Display u
 
 <b>Changelog:</b>
 
-2018-Jul-20: Adding some HTML code to show outside images and date/time with javascript
+<b>2018-Jul-20:</b> Adding some HTML code to show outside images and date/time with javascript
 
 Reference for javascript: http://www.webestools.com/scripts_tutorials-code-source-7-display-date-and-time-in-javascript-real-time-clock-javascript-date-time.html
                 
-2018-Jul-19: Primary stages of the webserver, sources:
+<b>2018-Jul-19:</b> Primary stages of the webserver, sources:
 
 Mainly used this reference: https://diyprojects.io/esp8266-web-server-tutorial-create-html-interface-connected-object/#.W23U6OgzbIU
 
@@ -18,6 +18,6 @@ https://randomnerdtutorials.com/esp8266-dht11dht22-temperature-and-humidity-web-
 
 Use of Google Charts: https://diyprojects.io/esp8266-web-server-part-5-add-google-charts-gauges-and-charts/#.W23U5ugzbIU
                 
-2018-Jul-17: Using a LCD to show the data from DHT11, using LiquidCrystal library, later changed from DHT11 to DHT22 for better accuracy
+<b>2018-Jul-17:</b> Using a LCD to show the data from DHT11, using LiquidCrystal library, later changed from DHT11 to DHT22 for better accuracy
 
-2018-Jul-10: Please note this is in an very early stage of development, using serial monitor to visualize data from DHT11, using DHTesp library.
+<b>2018-Jul-10:</b> Please note this is in an very early stage of development, using serial monitor to visualize data from DHT11, using DHTesp library.
