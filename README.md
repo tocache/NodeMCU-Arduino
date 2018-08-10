@@ -1,7 +1,7 @@
 # nodemcu_arduino
 A NodeMCU webserver interface with a DHT11/DHT22 sensor and a 16x2 LCD Display using Arduino IDE
 
-Changelog:
+<b>Changelog:</b>
 
 2018-Jul-20: Adding some HTML code to show outside images and date/time with javascript
 
