@@ -5,8 +5,8 @@
 #include <LiquidCrystal.h>
 
 #define DHT22_PIN 2
-#define ssid      "Zoom"       // WiFi SSID
-#define password  "zoom987654321"  // WiFi password
+#define ssid      "Zoompoipoi"       // WiFi SSID
+#define password  "zoompoipoipoi"  // WiFi password
 #define LEDPIN    14         // Led
 #define INPPIN    12        // Input
 
