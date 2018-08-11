@@ -4,6 +4,8 @@ A NodeMCU webserver interface with a DHT11/DHT22 sensor and a 16x2 LCD Display u
 
 <b>Changelog:</b>
 
+<b>2018-Aug-10:</b> Found a webpage that shows how to configure NodeMCU as an Wi-Fi Access Point: https://42bots.com/tutorials/esp8266-example-wi-fi-access-point-web-server-static-ip-remote-control/
+
 <b>2018-Jul-20:</b> Adding some HTML code to show outside images and date/time with javascript
 
 Reference for javascript: http://www.webestools.com/scripts_tutorials-code-source-7-display-date-and-time-in-javascript-real-time-clock-javascript-date-time.html
