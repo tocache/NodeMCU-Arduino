@@ -1,4 +1,4 @@
-# nodemcu_arduino
+# NodeMCU-Arduino
 <img src="https://preview.ibb.co/iPoeuJ/37383545_10217528414541426_5207107518039326720_n.jpg">
 A NodeMCU webserver interface with a DHT11/DHT22 sensor and a 16x2 LCD Display using Arduino IDE
 
