@@ -5,6 +5,7 @@ A NodeMCU webserver interface with a DHT11/DHT22 sensor and a 16x2 LCD Display u
 <b>Changelog:</b>
 
 <b>2018-Nov-07:</b> URL for Arduino Boards Manager: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+Sparkfun - ESP8266 Thing Hookup Guide: Example Sketch: AP Web Server: https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/example-sketch-ap-web-server
 
 <b>2018-Aug-10:</b> Found a webpage that shows how to configure NodeMCU as an Wi-Fi Access Point: https://42bots.com/tutorials/esp8266-example-wi-fi-access-point-web-server-static-ip-remote-control/
 
